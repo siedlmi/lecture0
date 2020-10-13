@@ -1,2 +1,2 @@
-# lecture0
-CS50 lectures github repository
+# Working on CSS grid
+learning new things on CSS and HTML
